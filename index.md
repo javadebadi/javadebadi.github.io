@@ -7,10 +7,10 @@ I am a PhD student of particles physics.
 
 
 |**Skill** | **Tools \#1** | **Tools \#2** | 
-|---------------- |:-------------:|:---------------------------:|
-|Programming      | C++           | Python                      | 
-|Data Analysis    | root          | pandas/numpy/matplotlib     |
-|Machine Learning | TMVA          | sikit-learn/keras/tensorflow|
+|---------------- |:-------------:|:--------------------------------:|:-------------:|
+|Programming      | C++           | Python                           | Mahtematica   |
+|Data Analysis    | root          | pandas / numpy / matplotlib      |               |
+|Machine Learning | TMVA          | scikit-learn / keras / tensorflow|               |
 
 C++
 Python
