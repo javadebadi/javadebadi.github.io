@@ -4,11 +4,11 @@
 I am a PhD student of particles physics.
 
 ## Main Skills
- **Skill** | **Tools \#1** | **Tools \#2** | 
----------------- | ------------- | --------------              |
-Programming      | C++           | Python                      | 
-Data Analysis    | root          | pandas/numpy/matplotlib     |
-Machine Learning | TMVA          | sikit-learn/keras/tensorflow|
+|**Skill** | **Tools \#1** | **Tools \#2** | 
+|---------------- |:-------------:|:---------------------------:|
+|Programming      | C++           | Python                      | 
+|Data Analysis    | root          | pandas/numpy/matplotlib     |
+|Machine Learning | TMVA          | sikit-learn/keras/tensorflow|
 
 C++
 Python
