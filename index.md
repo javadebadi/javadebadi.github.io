@@ -12,9 +12,7 @@ I am a PhD student of particles physics.
 |Data Analysis    | root          | pandas / numpy / matplotlib      |       _       |
 |Machine Learning | TMVA          | scikit-learn / keras / tensorflow|       _       |
 
-C++
-Python
-Machine Learning
+
 ## Contact Me
 gmail: javad.ebadi.1990@gmail.com<br>
 IPM mail: javadebadi@ipm.ir<br>
