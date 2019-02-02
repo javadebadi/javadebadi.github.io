@@ -2,3 +2,10 @@ theme: jekyll-theme-dinky
 title: Welcome to Javad's page!
 description: Please feel free to contact me.
 facebook_username:    javad.ebadi.5
+{% if site.facebook_username %}
+  <li>
+    <a href="https://www.facebook.com/{{ site.facebook_username }}">
+      <i class="fa fa-facebook"></i> Facebook
+    </a>
+  </li>
+{% endif %}
