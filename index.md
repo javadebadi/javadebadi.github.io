@@ -4,6 +4,11 @@
 I am a PhD student of particles physics.
 
 ## Main Skills
+Skills | 
+------------ |
+Content from cell 1 |
+Content in the first column | 
+
 C++
 Python
 Machine Learning
