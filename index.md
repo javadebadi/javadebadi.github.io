@@ -26,5 +26,5 @@ IPM mail: javadebadi@ipm.ir<br>
 
 [1]: https://facebook.com/javad.ebadi.5
 
-<a href="https://facebook.com/javad.ebadi.5"><img src="./images/fb.png"></a>
+<a href="https://facebook.com/javad.ebadi.5"><img src="./images/fb.png" width="5"></a>
 
