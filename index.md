@@ -8,7 +8,7 @@ I am a PhD student of particles physics.
 
 |**Skill** | **Tools \#1** | **Tools \#2** | **Tools \#3** | 
 |---------------- |:-------------:|:--------------------------------:|:-------------:|
-|Programming      | C++<img src="./images/cpp_logo.png" width="50">           | Python <img src="./images/python_logo.png" width="50">                          | Mathematica   |
+|Programming      | <img src="./images/cpp_logo.png" width="50" >           |  <img src="./images/python_logo.png" width="50">                          | Mathematica   |
 |Data Analysis    | root          | pandas / numpy / matplotlib      |       _       |
 |Machine Learning | TMVA          | scikit-learn / keras / tensorflow|       _       |
 
