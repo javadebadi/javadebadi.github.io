@@ -30,7 +30,7 @@ IPM mail: javadebadi@ipm.ir<br>
 
 
 
-		<table border="1">
+	<table border="1">
             <tr>
                 <th>cut</th>
 				<th>j a</th>
