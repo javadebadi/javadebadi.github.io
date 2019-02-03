@@ -6,12 +6,32 @@ I am a PhD student of particles physics.
 ## Main Skills
 
 
-|**Skill** | **Tools \#1** | **Tools \#2** | **Tools \#3** | 
-|:----------------: |:-------------:|:--------------------------------:|:-------------:|
-|Programming      | <img src="./images/cpp_logo.png" height="50" >           |  <img src="./images/python_logo_2.png" height="50">     |  <img src="./images/mathematica_11_logo.png" height="50">    |
-|Data Analysis    | root          | pandas / numpy / matplotlib      |       _       |
-|Machine Learning | TMVA          | scikit-learn / keras / tensorflow|       _       |
-
+<table border="1">
+	<thead>
+		<th>Skill</th>
+		<th>Tools \#1</th>
+		<th>Tools \#2</th>
+                <th>Tools \#3</th>
+	</thead>
+	<tr>
+		<td><strong>Programming</strong></td>
+                <td><img src="./images/cpp_logo.png" height="50" ></td>
+		<td><img src="./images/python_logo_2.png" height="50"></td>
+		<td><img src="./images/mathematica_11_logo.png" height="50"></td>
+	</tr>
+	<tr>
+		<td>Data Analysis</td>
+		<td>root</td>
+		<td>pandas / numpy / matplotlib</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Machine Learning</td>
+		<td>TMVA</td>
+		<td>scikit-learn / keras / tensorflow</td>
+		<td></td>
+	</tr>
+</table>
 
 ## Contact Me
 gmail: javad.ebadi.1990@gmail.com<br>
@@ -29,17 +49,4 @@ IPM mail: javadebadi@ipm.ir<br>
 
 
 
-<table border="1">
-	<thead>
-		<th>Skill</th>
-		<th>Tools \#1</th>
-		<th>Tools \#2</th>
-                <th>Tools \#3</th>
-	</thead>
-	<tr>
-		<td><strong>Programming</strong></td>
-                <td><img src="./images/cpp_logo.png" height="50" ></td>
-		<td><img src="./images/python_logo_2.png" height="50"></td>
-		<td><img src="./images/mathematica_11_logo.png" height="50"></td>
-	</tr>
-</table>
+
