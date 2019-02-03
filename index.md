@@ -21,7 +21,7 @@ I am a PhD student of particles physics.
 	</tr>
 	<tr>
 		<td><strong>Data Analysis</strong></td>
-		<td>root</td>
+		<td><a href="https://root.cern.ch/"><img src="./images/root.png"></a></td>
 		<td>pandas / numpy / matplotlib</td>
 		<td></td>
 	</tr>
