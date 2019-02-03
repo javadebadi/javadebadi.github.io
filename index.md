@@ -45,7 +45,7 @@ IPM mail: javadebadi@ipm.ir<br>
                 <td>0.42095</td>
                 <td>0.99996</td>
                 <td>0.99995</td>
-                <td>0.99990</td>
+                <td><img src="./images/mathematica_11_logo.png" height="200"> </td>
                 <td>---</td>
             </tr>
 </table>
