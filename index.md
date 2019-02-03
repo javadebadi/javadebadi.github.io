@@ -16,9 +16,6 @@ I am a PhD student of particles physics.
 ## Contact Me
 gmail: javad.ebadi.1990@gmail.com<br>
 IPM mail: javadebadi@ipm.ir<br>
-[Linkedin](https://www.linkedin.com/in/javad-ebadi-3629a481)
-[Instagram](https://instagram.com/javad.ebadi.1990/)
-[facebook](https://facebook.com/javad.ebadi.5/)
 
 [![alt text][1.1]][1]
 
