@@ -31,21 +31,15 @@ IPM mail: javadebadi@ipm.ir<br>
 
 <table border="1">
             <tr>
-                <th>cut</th>
-				<th>j a</th>
-				<th>w j a</th>
-                <th>z j a</th>
-                <th>CGtil = 0.5</th>
-                <th>CWtil = 0.5</th>
-                <th> z j a (z->&mu;&mu;)<br><p style="color: red;">[Not a BG]</p></th>
+                <th>Skill</th>
+		<th>Tools \#1</th>
+		<th>Tools \#2</th>
+                <th>Tools \#3</th>
 			</thead>
-            <tr>
-                <td>No isolated leptons</td>
-                <td>0.99993</td>
-                <td>0.42095</td>
-                <td>0.99996</td>
-                <td>0.99995</td>
-                <td><img src="./images/mathematica_11_logo.png" height="200"> </td>
-                <td>---</td>
-            </tr>
+			<tr>
+		<td><strong>Programming</strong></td>
+                <td><img src="./images/cpp_logo.png" height="50" > </td>
+		<td> <img src="./images/python_logo_2.png" height="50"></td>
+		<td><img src="./images/mathematica_11_logo.png" height="200"> </td>
+		</tr>
 </table>
