@@ -8,7 +8,7 @@ I am a PhD student of particles physics.
 
 |**Skill** | **Tools \#1** | **Tools \#2** | **Tools \#3** | 
 |---------------- |:-------------:|:--------------------------------:|:-------------:|
-|Programming      | C++           | Python                           | Mahtematica   |
+|Programming      | C++           | Python                           | Mathematica   |
 |Data Analysis    | root          | pandas / numpy / matplotlib      |       _       |
 |Machine Learning | TMVA          | scikit-learn / keras / tensorflow|       _       |
 
@@ -25,4 +25,6 @@ IPM mail: javadebadi@ipm.ir<br>
 [1.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
 
 [1]: https://facebook.com/javad.ebadi.5
+
+<a href="https://facebook.com/javad.ebadi.5"><img src="./images/fb.png"></a>
 
