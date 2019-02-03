@@ -30,16 +30,16 @@ IPM mail: javadebadi@ipm.ir<br>
 
 
 <table border="1">
-            <tr>
+	<thead>
                 <th>Skill</th>
 		<th>Tools \#1</th>
 		<th>Tools \#2</th>
                 <th>Tools \#3</th>
-			</thead>
-			<tr>
+	</thead>
+	<tr>
 		<td><strong>Programming</strong></td>
                 <td><img src="./images/cpp_logo.png" height="50" > </td>
-		<td> <img src="./images/python_logo_2.png" height="50"></td>
+		<td><img src="./images/python_logo_2.png" height="50"></td>
 		<td><img src="./images/mathematica_11_logo.png" height="50"> </td>
-		</tr>
+	</tr>
 </table>
