@@ -22,7 +22,7 @@ I am a PhD student of particles physics.
 	<tr>
 		<td><strong>Data Analysis</strong></td>
 		<td><a href="https://root.cern.ch/"><img src="./images/root.png" height="50"></a></td>
-		<td><a href="https://pandas.pydata.org/">pandas<img src="./images/pandas.png" height="50"><a> / <a href="http://www.numpy.org/">numpy<img src="./images/numpy.png" height="50"></a> / <a href="https://matplotlib.org/">matplotlib<img src="./images/matplotlib.svg" height="50"></a></td>
+		<td><a href="https://pandas.pydata.org/"><img src="./images/pandas.png" height="50"><a> / <a href="http://www.numpy.org/"><img src="./images/numpy.png" height="50"></a> / <a href="https://matplotlib.org/"><img src="./images/matplotlib.svg" height="50"></a></td>
 		<td></td>
 	</tr>
 	<tr>
