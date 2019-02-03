@@ -33,15 +33,10 @@ I am a PhD student of particles physics.
 	</tr>
 </table>
 
-## Contact Me
+## Contact
 gmail: javad.ebadi.1990@gmail.com<br>
 IPM mail: javadebadi@ipm.ir<br>
 
-[![alt text][1.1]][1]
-
-[1.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-
-[1]: https://facebook.com/javad.ebadi.5
 
 <a href="https://www.linkedin.com/in/javad-ebadi-3629a481"><img src="./images/linkedin.png" height="50"></a>
 <a href="https://facebook.com/javad.ebadi.5"><img src="./images/fb.png" height="50"></a>
