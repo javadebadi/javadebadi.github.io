@@ -20,13 +20,13 @@ I am a PhD student of particles physics.
 		<td><img src="./images/mathematica_11_logo.png" height="50"></td>
 	</tr>
 	<tr>
-		<td>Data Analysis</td>
+		<td><strong>Data Analysis</strong></td>
 		<td>root</td>
 		<td>pandas / numpy / matplotlib</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td>Machine Learning</td>
+		<td><strong>Machine Learning</strong></td>
 		<td>TMVA</td>
 		<td>scikit-learn / keras / tensorflow</td>
 		<td></td>
