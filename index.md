@@ -30,9 +30,9 @@ I am a PhD student of particles physics.
 	<tr>
 		<td><strong>Machine Learning</strong></td>
 		<td><a href="https://root.cern.ch/tmva"><img src="./images/tmva.png" height="50"></a></td>
-		<td><a href=""><img src="./images/scikit_learn.png" height="50"></a><br>
-            <a href=""><img  src="./images/keras.png" height="50">keras</a><br>
-            <a href=""><img src="./images/tensorflow.png height="50">" tensorflow</a>
+		<td><a href="https://scikit-learn.org/"><img src="./images/scikit_learn.png" height="50"></a><br>
+            <a href="http://keras.io/"><img  src="./images/keras.png" height="50">keras</a><br>
+            <a href="https://www.tensorflow.org/"><img src="./images/tensorflow.png" height="50"> tensorflow</a>
         </td>
 		<td></td>
 	</tr>
