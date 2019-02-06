@@ -46,6 +46,7 @@ IPM mail: javadebadi@ipm.ir<br>
 
 <a href="https://facebook.com/javad.ebadi.5"><img src="./images/fb.png" height="50"></a>
 <a href="https://instagram.com/javad.ebadi.1990"><img src="./images/instagram.png" height="50"></a>
+<a href="https://t.me/javadebadi1990"><img src="./images/telegram_logo.png" height="50"></a>
 <a href="https://www.linkedin.com/in/javad-ebadi-3629a481"><img src="./images/linkedin.png" height="50"></a>
 <a href="https://www.researchgate.net/profile/Javad_Ebadi2"><img src="./images/researchgate.png" height="50"></a>
 <a href="https://scholar.google.com/citations?user=_Uz9iGAAAAAJ&hl=en"><img src="./images/scholar_logo.png" height="50"></a>
@@ -53,3 +54,4 @@ IPM mail: javadebadi@ipm.ir<br>
 <a href="https://www.youtube.com/channel/UCu8q9SYoOYkuBdTmXBdAI4w"><img src="./images/youtube_logo.png" height="50"></a>
 <a href="https://soundcloud.com/javad-ebadi-2046443"><img src="./images/soundcloud_logo.png" height="50"></a>
 <a href="https://www.goodreads.com/user/show/77636561-javad-ebadi"><img src="./images/goodreads_logo.png" height="50"></a>
+<a href="https://www.slideshare.net/JavadEbadi/"><img src="./images/slideshare_logo.png" height="50"></a>
