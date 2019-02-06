@@ -41,12 +41,13 @@ I am a PhD student of particles physics at <a href="http://ipm.ac.ir/">IPM</a> i
 
 ## Contact
 IPM mail:       javadebadi@ipm.ir<br>
-<img src="./images/gmail_logo.png" height="50" align="middle" hspace="70" title="wef">        <img src="./images/skype_logo.png" height="50" align="middle" hspace="70">  <br>
-javad.ebadi.1990@gmail.com   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         javad.ebadi.abd<br>
+<img src="./images/gmail_logo.png" height="50" align="middle" hspace="70" title="javad.ebadi.1990@gmail.com"><br>
+javad.ebadi.1990@gmail.com<br>
 
 <a href="https://facebook.com/javad.ebadi.5"><img src="./images/fb.png" height="50"></a>
 <a href="https://instagram.com/javad.ebadi.1990"><img src="./images/instagram.png" height="50"></a>
 <a href="https://t.me/javadebadi1990"><img src="./images/telegram_logo.png" height="50"></a>
+<a title="javad.ebadi.abd"><img src="./images/skype_logo.png" height="50"></a>
 <a href="https://www.linkedin.com/in/javad-ebadi-3629a481"><img src="./images/linkedin.png" height="50"></a>
 <a href="https://www.researchgate.net/profile/Javad_Ebadi2"><img src="./images/researchgate.png" height="50"></a>
 <a href="https://scholar.google.com/citations?user=_Uz9iGAAAAAJ&hl=en"><img src="./images/scholar_logo.png" height="50"></a>
