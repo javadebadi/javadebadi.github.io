@@ -2,3 +2,9 @@ theme: jekyll-theme-slate
 title: Welcome to Javad's page!
 description: Please feel free to contact me.
 facebook_username:    javad.ebadi.5
+# Select which share links to show in posts
+share-links-active:
+  twitter: true
+  facebook: true
+  google: false
+  linkedin: true
