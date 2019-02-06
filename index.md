@@ -29,7 +29,7 @@ I am a PhD student of particles physics.
 	</tr>
 	<tr>
 		<td><strong>Machine Learning</strong></td>
-		<td><a href="https://root.cern.ch/tmva"><img src="./images/tmva.png"<br>TMVA height="50"></a></td>
+		<td><a href="https://root.cern.ch/tmva"><img src="./images/tmva.png" height="50"><br>TMVA</a></td>
 		<td><a href="https://scikit-learn.org/"><img src="./images/scikit_learn.png" height="50"><br>scikit-learn</a><br>
             <a href="http://keras.io/"><img  src="./images/keras.png" height="50"><br>keras</a><br>
             <a href="https://www.tensorflow.org/"><img src="./images/tensorflow.png" height="50"><br> tensorflow</a>
