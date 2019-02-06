@@ -40,8 +40,8 @@ I am a PhD student of particles physics at <a href="http://ipm.ac.ir/">IPM</a> i
 </table>
 
 ## Contact
-gmail: javad.ebadi.1990@gmail.com<br>
-IPM mail: javadebadi@ipm.ir<br>
+gmail   : javad.ebadi.1990@gmail.com<br>
+IPM mail:       javadebadi@ipm.ir<br>
 
 
 
