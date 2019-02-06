@@ -46,8 +46,9 @@ javad.ebadi.1990@gmail.com   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb
 
 <figure>
   <img src="./images/gmail_logo.png" alt="Trulli" style="width:100%">
-  <figcaption style={text-align:"middle";}>javad.ebadi.1990@gmail.com</figcaption>
+  <figcaption>javad.ebadi.1990@gmail.com</figcaption>
 </figure>
+<br>
 <a href="https://facebook.com/javad.ebadi.5"><img src="./images/fb.png" height="50"></a>
 <a href="https://instagram.com/javad.ebadi.1990"><img src="./images/instagram.png" height="50"></a>
 <a href="https://t.me/javadebadi1990"><img src="./images/telegram_logo.png" height="50"></a>
