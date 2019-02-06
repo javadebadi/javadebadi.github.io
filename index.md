@@ -6,7 +6,7 @@ I am a PhD student of particles physics.
 ## Main Skills
 
 
-<table border="1">
+<table border="0">
 	<thead>
 		<th>Skill</th>
 		<th>Tools \#1</th>
