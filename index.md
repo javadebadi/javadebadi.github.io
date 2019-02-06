@@ -44,7 +44,7 @@ IPM mail:       javadebadi@ipm.ir<br>
 <img src="./images/gmail_logo.png" height="50" align="middle" hspace="70">        <img src="./images/skype_logo.png" height="50" align="middle" hspace="70">  <br>
 javad.ebadi.1990@gmail.com   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         javad.ebadi.abd<br>
 
-<div style="width:image width px; font-size:80%; text-align:center;"><img src="./images/gmail_logo.png" alt="alternate text" width="width" height="height" style="padding-bottom:0.5em;" />This is my caption</div>
+<div style="width:"100"; font-size:80%; text-align:center;"><img src="./images/gmail_logo.png" alt="alternate text" width="100" height="50" style="padding-bottom:0.5em;" />This is my caption</div>
 
 <a href="https://facebook.com/javad.ebadi.5"><img src="./images/fb.png" height="50"></a>
 <a href="https://instagram.com/javad.ebadi.1990"><img src="./images/instagram.png" height="50"></a>
