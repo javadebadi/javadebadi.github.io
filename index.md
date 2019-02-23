@@ -10,9 +10,9 @@ I am a PhD student of particles physics at <a href="http://ipm.ac.ir/">IPM</a> i
 <table border="0">
 	<thead>
 		<th>Skill</th>
-		<th>Tools \#1</th>
-		<th>Tools \#2</th>
-                <th>Tools \#3</th>
+		<th></th>
+		<th></th>
+                <th></th>
 	</thead>
 	<tr>
 		<td><strong>Programming</strong></td>
