@@ -9,7 +9,7 @@ I am a PhD student of particles physics at <a href="http://ipm.ac.ir/">IPM</a> i
 
 <table border="0">
 	<thead>
-		<th>Skill</th>
+		<th></th>
 		<th></th>
 		<th></th>
                 <th></th>
