@@ -53,6 +53,6 @@ javad.ebadi.1990@gmail.com<br>
 <a href="https://scholar.google.com/citations?user=_Uz9iGAAAAAJ&hl=en"><img src="./images/scholar_logo.png" height="50"></a>
 <a href="http://inspirehep.net/author/profile/J.Ebadi.1"><img src="./images/inspire_logo.jpg" height="50"></a>
 <a href="https://www.youtube.com/channel/UCu8q9SYoOYkuBdTmXBdAI4w"><img src="./images/youtube_logo.png" height="50"></a>
-<a href="https://soundcloud.com/javad-ebadi-2046443"><img src="./images/soundcloud_logo.png" height="50"></a>
+<a href="https://soundcloud.com/user-226847302"><img src="./images/soundcloud_logo.png" height="50"></a>
 <a href="https://www.goodreads.com/user/show/77636561-javad-ebadi"><img src="./images/goodreads_logo.png" height="50"></a>
 <a href="https://www.slideshare.net/JavadEbadi/"><img src="./images/slideshare_logo.png" height="50"></a>
