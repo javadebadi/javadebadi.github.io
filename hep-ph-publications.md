@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html>
-<title>HEP-PH Publications</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-
-
 # List of publications in HEP-PH
 
 
@@ -19,4 +11,6 @@
 <i>Javad Ebadi, Fatemeh Elahi, Morteza Khatiri, and Mojtaba Mohammadi Najafabadi</i>
 </br>
 <a href="https://arxiv.org/abs/1806.03463">arXiv<a>
-</html>
+
+  
+  [www.google.com](google)
