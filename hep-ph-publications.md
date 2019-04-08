@@ -3,7 +3,7 @@
 ### Axion-like particles and top quark
 [**New Probes for Axion-like Particles at Hadron Colliders**]()   
 *Javad Ebadi, Sara Khatibi, Mojtaba Mohammadi Najafabadi*    
-[arxiv:1901.03061](https://arxiv.org/abs/1901.03061)
+[arXiv:1901.03061](https://arxiv.org/abs/1901.03061)
 
 
 ### 	Report from Working Group 1 on the Physics of the HL-LHC, and Perspectives at the HE-LHC
