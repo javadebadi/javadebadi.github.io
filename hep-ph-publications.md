@@ -2,15 +2,6 @@
 
 
 ### Same sign tops
-<a href="https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.075012">
-  <strong>
-    Same-sign top pair plus W production in flavor changing vector and scalar models
-    </strong>
-</a>
-</br>
-<i>Javad Ebadi, Fatemeh Elahi, Morteza Khatiri, and Mojtaba Mohammadi Najafabadi</i>
-</br>
-<a href="https://arxiv.org/abs/1806.03463">arXiv<a>
-
-  
-  [www.google.com](google)
+[https://journals.aps.org/prd/abstract/10.1103/PhysRevD.98.075012](**Same-sign top pair plus W production in flavor changing vector and scalar models**)   
+*Javad Ebadi, Fatemeh Elahi, Morteza Khatiri, and Mojtaba Mohammadi Najafabadi*   
+[https://arxiv.org/abs/1806.03463"](arXiv:1806.03463)
