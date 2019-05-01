@@ -9,5 +9,7 @@
 
 <a href="https://docs.google.com/viewer?url=https://github.com/javadebadi/javadebadi.github.io/blob/master/about-life/from-books/Uncle%20Toms%20Cabin.pdf">wefewfewf<a>
 
-
+<div>
 <embed src="javadebadi.github.io/about-life/from-books/Uncle-Toms-Cabin.pdf" type="application/pdf" />
+  
+  </div>
