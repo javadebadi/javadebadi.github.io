@@ -9,7 +9,17 @@
 
 <a href="https://docs.google.com/viewer?url=https://github.com/javadebadi/javadebadi.github.io/blob/master/about-life/from-books/Uncle%20Toms%20Cabin.pdf">wefewfewf<a>
 
-<div>
-<embed src="javadebadi.github.io/about-life/from-books/Uncle-Toms-Cabin.pdf" type="application/pdf" />
-  
-  </div>
+
+
+<div id="pdfContainer">
+    <div class="codeContainer"> 
+        <textarea rows="4" cols="82">
+ <embed src="javadebadi.github.io/about-life/from-books/Uncle-Toms-Cabin.pdf" type="application/pdf" width="600px" height="500px" />
+
+        </textarea>
+    </div>
+    
+    <div class="result">
+        <embed src="https://sumanbogati.github.io/sample.pdf" width="600px" height="500px" />
+    </div>
+</div>
