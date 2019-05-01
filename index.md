@@ -45,6 +45,9 @@ My publications in particle physics phenomenology:
 	</tr>
 </table>
 
+## About Life, Motivations and Truth (personal life)
+[link](about-life.md)
+
 ## Contact
 IPM :       javadebadi@ipm.ir<br>
 CERN:       javad.ebadi@cern.ch<br>
