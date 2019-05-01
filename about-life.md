@@ -13,8 +13,6 @@
 
 <div id="pdfContainer">
     <div class="codeContainer"> 
-        <textarea rows="4" cols="82">
  <embed src="javadebadi.github.io/about-life/from-books/Uncle-Toms-Cabin.pdf" type="application/pdf" width="600px" height="500px" />
-        </textarea>
     </div>
 </div>
