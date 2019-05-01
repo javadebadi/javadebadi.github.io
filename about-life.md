@@ -6,7 +6,7 @@
 
 <a href="./about-life/from-books/Uncle-Toms-Cabin.pdf" target="_blank">PDF.</a>
 
-<embed src="https://github.com/javadebadi/javadebadi.github.io/blob/master/about-life/from-books/Uncle-Toms-Cabin.pdf" type="application/pdf" />
+<embed src="javadebadi.github.io/about-life/from-books/Uncle-Toms-Cabin.pdf" type="application/pdf" />
 
 
 [wefewfewfwefwef]({{site.baseurl}})/about-life/from-books/Uncle-Toms-Cabin.pdf
