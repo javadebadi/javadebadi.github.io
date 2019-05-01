@@ -6,6 +6,9 @@ I am a PhD student of particles physics at <a href="http://ipm.ac.ir/">IPM</a> i
 ## Publications
 My publications in particle physics phenomenology:
 ### [HEP-PH](hep-ph-publications.md)
+
+## Research and Interests
+### [Machine Learning](machine-learning.md)
 	
 ## Main Skills
 
