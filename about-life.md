@@ -2,3 +2,4 @@
 
 # قسمت‌هایی از کتاب‌ها
 [کلبه‌ی عمو تام](https://github.com/javadebadi/javadebadi.github.io/blob/master/about-life/from-books/Uncle%20Toms%20Cabin.pdf)
+![کلبه‌ی عمو تام](./about-life/from-books/Uncle%20Toms%20Cabin.pdf)
