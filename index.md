@@ -20,8 +20,7 @@ In [this page](skills.md) you can find about my CV and skills.
 
 ### Contact
 
-|Website| Email                      |
-|-------|----------------------------|
+
 | IPM   | javadebai@ipm.ir           |
 | CERN  | javad.ebadi@cern.ch        |
 | Gmail | javad.ebadi.1990@gmail.com |
