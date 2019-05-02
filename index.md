@@ -48,7 +48,7 @@ My publications in particle physics phenomenology:
 </table>
 
 ## About Life, Motivations and Truth (personal life)
-[link](about-life.md)
+[link](about-life.md)    
 <a href="my-website.html">my personal website<a>
 
 ## Contact
