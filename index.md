@@ -10,13 +10,16 @@ My publications in particle physics phenomenology:
 ## Research and Interests
 ### [Machine Learning](machine-learning.md)
 	
-<div>	
+	
 <div style="width: 20%; float:left">
-   #left content in here
+  	 ## Publications
+	My publications in particle physics phenomenology:
+	### [HEP-PH](hep-ph-publications.md)
 </div>
 
 <div style="width: 80%; float:right">
-   #right content in there
+   ## Research and Interests
+	### [Machine Learning](machine-learning.md)
 </div>
 	
 ## Main Skills
