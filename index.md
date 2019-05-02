@@ -1,25 +1,25 @@
 
-## Who am I?
+### Who am I?
 First of all, I am a human being and after that I am a son, a brother, a student, a researcher and a programmer.
 I am a PhD student of particles physics at <a href="http://ipm.ac.ir/">IPM</a> in <a href="https://en.wikipedia.org/wiki/Tehran">Tehran</a>, <a href="https://en.wikipedia.org/wiki/Iran">Iran</a>. I was born in November, 1990, so I am 29 years old now. 
 
-## Publications
+### Publications
 My publications in particle physics phenomenology:
-### [HEP-PH](hep-ph-publications.md)
+#### [HEP-PH](hep-ph-publications.md)
 
-## Research and Interests
-### [Machine Learning](machine-learning.md)
+### Research and Interests
+#### [Machine Learning](machine-learning.md)
 	
 
 	
-## My CV and Skills
+### My CV and Skills
 In [this page](skills.md) you can find about my CV and skills.
 
-## About Life, Motivations and Truth (personal life)
+### Personal life
  
 <a href="./personal/my-website.html">my personal website<a>
 
-## Contact
+### Contact
 IPM :       javadebadi@ipm.ir<br>
 CERN:       javad.ebadi@cern.ch<br>
 <img src="./images/gmail_logo.png" height="50" align="middle" hspace="70" title="javad.ebadi.1990@gmail.com"><br>
