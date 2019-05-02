@@ -10,7 +10,7 @@ My publications in particle physics phenomenology:
 ## Research and Interests
 ### [Machine Learning](machine-learning.md)
 	
-	
+<div>	
 <div style="width: 20%; float:left">
    #left content in here
 </div>
