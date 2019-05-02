@@ -10,17 +10,7 @@ My publications in particle physics phenomenology:
 ## Research and Interests
 ### [Machine Learning](machine-learning.md)
 	
-	
-<div style="width: 20%; float:left">
-  	 ## Publications
-	My publications in particle physics phenomenology:
-	### [HEP-PH](hep-ph-publications.md)
-</div>
 
-<div style="width: 80%; float:right">
-   ## Research and Interests
-	### [Machine Learning](machine-learning.md)
-</div>
 	
 ## Main Skills
 
