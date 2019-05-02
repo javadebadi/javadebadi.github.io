@@ -9,7 +9,9 @@ My publications in particle physics phenomenology ([HEP-PH](hep-ph-publications.
 
 ### Research and Interests
 #### [Machine Learning](machine-learning.md)
-	
+
+### For Physics Students
+In [this page](physics-students.md), physics students could find some useful links to start learning skills for experimental particle physics. I will update this page slowly.
 	
 ### My CV and Skills
 In [this page](skills.md) you can find about my CV and skills.
