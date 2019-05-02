@@ -19,7 +19,7 @@ In [this page](skills.md) you can find about my CV and skills.
 <a href="./personal/my-website.html">my personal website<a>
 
 ### Contact
-|       |                            |
+
 |-------|----------------------------|
 | IPM   | javadebai@ipm.ir           |
 | CERN  | javad.ebadi@cern.ch        |
