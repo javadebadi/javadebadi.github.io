@@ -10,6 +10,7 @@ My publications in particle physics phenomenology ([HEP-PH](hep-ph-publications.
 ### Research and Interests
 #### [Machine Learning](machine-learning.md)
 #### [Higgs](Higgs.md)
+#### [Axion and Axion-like Particles (ALPs)](axion.md)
 
 ### For Physics Students
 In [this page](physics-students.md), physics students could find some useful links to start learning skills for experimental particle physics. I will update this page slowly.
