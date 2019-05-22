@@ -57,4 +57,4 @@ Leaning C++ means being comfortable and excel this concepts and usage of them:
 
 
 The are many videos for elementary and advanced C++ learning. In [edx](https://www.edx.org), there are courses for C++ provided by the Microsoft, but I have not tried them.
-I have watched videos from [Infinite Skills](https://www.oreilly.com/library/view/programming-c/9781926873411/) and [Lynda](https://www.lynda.com/C-training-tutorials/1250-0.html) for C++. The video from **Infinite Skills** is very useful for beginners.
+I have watched videos from [Infinite Skills](https://www.oreilly.com/library/view/programming-c/9781926873411/) and [Lynda](https://www.lynda.com/C-training-tutorials/1250-0.html) for C++. The video from [Infinite Skills](https://www.oreilly.com/library/view/programming-c/9781926873411/) is very useful for beginners.
