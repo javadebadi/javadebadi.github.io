@@ -22,11 +22,11 @@ The next step, is to choose an editor to write codes. I have used many editors s
 In my opintion, the best editor for EPP is **Vim**. 
 For simple tasks related to operatin system tasks the **Nano** is good choice, but for professional coding you need an advanced editor.
 
-One thing about **Vim** is that, it is **NOT** easy at the begining, so feel free to not like it first. Learn it gradually and slowly.
+One thing about Vim is that, it is **NOT** easy at the begining, so feel free to not like it first. Learn it gradually and slowly.
 
-If I have time, I will record videos about **Vim** and post them on my Youtube channel.
+If I have time, I will record videos about Vim and post them on my Youtube channel.
 
-For python codes, in addition to editor, you may want to use notebooks. I highly recommend **Jupyter Notebook** for python codes. Thanks to root-cern team, Jupyter notebook is now capabale of writing **C++** codes. Thus, for EPP the best notebook is **Jupyter Notebook**.
+For python codes, in addition to editor, you may want to use notebooks. I highly recommend **Jupyter Notebook** for python codes. Thanks to root-cern team, Jupyter notebook is now capabale of writing C++ codes. Thus, for EPP the best notebook is Jupyter Notebook.
 
 #### Step 3: Programming (C++ or Python)
 As an experimental particle physicist you need to learn at least two languages which are
@@ -42,7 +42,7 @@ Leaning C++ means being comfortable and excel this concepts and usage of them:
 - C++ built-in data types (`int`, `float`, `double`, `char`, `bool`, `string`)
 - Variables (global, local, type, name, value, size, memory)
 - Functions (return type, parameters, arguments)
-- Itertion (`for` loops especially)
+- Iteration (`for` loops especially)
 - Logical expressions (`&&`, `||`, `!`)
 - Conditions (`if` statements)
 - Arrays and Pointers
