@@ -56,5 +56,5 @@ Leaning C++ means being comfortable and excel this concepts and usage of them:
 - Learn concpets to be able to search in the Web for your questions (in programming you always search for your problems, you need to know fundamentals to be able to use materials which are available in the Web)
 
 
-The are many videos for elementary and advanced C++ learning. In (edx)[https:://www.edx.org], there are courses for C++, but I have not tried them.
+The are many videos for elementary and advanced C++ learning. In (edx)[https://www.edx.org], there are courses for C++ provided by the Microsoft, but I have not tried them.
 I have watched videos from [Infinite Skills](https://www.oreilly.com/library/view/programming-c/9781926873411/) and [Lynda](https://www.lynda.com/C-training-tutorials/1250-0.html) for C++. The video from **Infinite Skills** is very useful for beginners.
