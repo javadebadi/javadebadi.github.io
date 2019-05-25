@@ -15,7 +15,8 @@ I recommend the course [Unix workbench](https://www.coursera.org/learn/unix). Yo
 - Cloud computing    
 
 This course is introductary, easy but extremely useful for beginners.
-tep 2: Editor (Vim)
+
+#### Step 2: Editor (Vim)
 The next step, is to choose an editor to write codes. I have used many editors such as Nano, Vim, Text-editor, Notepad++, Emacs and Eclipse.
 
 In my opinion, the best editor for EPP is **Vim**. 
