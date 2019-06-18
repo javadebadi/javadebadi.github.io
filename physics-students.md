@@ -1,7 +1,10 @@
 ### How to start and gain skills for experimental particle physics?
 
 Experimental particle physics (EPP) is a very broad field and it is impossible to excel everything in that. 
-Here, I want to introduce materials which are necessary (in my point of view) for data analysis and programming in EEP.
+Here, I want to introduce materials which are necessary (in my point of view) for data analysis and programming in EEP.   
+
+#### Step 0: English
+There is no need to emphesize this skill. That's the one way you can start your research in 21<sup>st</sup> century.
 
 #### Step 1: Unix
 The very fist step, is to learn **Unix/Linux**.
@@ -58,3 +61,13 @@ Leaning C++ means being comfortable and excel this concepts and usage of them:
 
 The are many videos for elementary and advanced C++ learning. In [edx](https://www.edx.org/learn/c-plus-plus), there are courses for C++ provided by the Microsoft, but I have not tried them.
 I have watched videos from [Infinite Skills](https://www.oreilly.com/library/view/programming-c/9781926873411/) and [Lynda](https://www.lynda.com/C-training-tutorials/1250-0.html) for C++. The video from [Infinite Skills](https://www.oreilly.com/library/view/programming-c/9781926873411/) is very useful for beginners.
+
+
+#### Step 4: Statistics
+
+#### Step 5: Particle Physics and Collider Physics
+
+#### Step 6: Detector Physics (CMS)
+Detector physics is a broad subject by itself. Here I want to give links which are useful for **CMS** detector.
+###### Particle Flow (PF)
+[Particle flow in CMS](https://cds.cern.ch/record/2232592/files/vol56-issue5-p027-e.pdf)
