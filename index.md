@@ -1,3 +1,6 @@
+---
+redirect_from: "./index.html"
+---
 
 ### Who am I?
 First of all, I am a human being and after that I am a son, a brother, a student, a researcher and a programmer.
