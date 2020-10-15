@@ -4,52 +4,264 @@
     <meta charset="utf-8">
     <!-- add bootstrap 4.3 with CDN-->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <!-- Add icon library -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons/css/academicons.min.css">
+    <link rel="stylesheet" href="/css/social.css">
     <!-- meta tag for responsive design -->
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=n">
+    <style>
+    section{
+      padding-bottom: 2rem;
+    }
+    header.header {
+      height: auto;
+      margin: 0;
+      padding: 0;
+    }
+    .card-img-top {
+      padding: 1rem;
+      height: 40vh;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      object-fit: fill;
+      width: 100%;
+    }
+    footer {
+      margin: 0px autor -200px;
+      padding: 0;
+      width: 100%;
+      display: flex;
+      flex-wrap: wrap;
+      flex-direction: row;
+      justify-content: space-around;
+      clear: both;
+      position: relative;
+      margin-top: -200px;
+    }
+    .footer-img {
+      margin: 0;
+      padding: 0;
+      width: 0%;
+      display: none;
+    }
+    .footer-img img {
+      display: none;
+    }
+    .footer-text {
+      min-width: 200px;
+      max-width: 25%;
+    }
+    .footer-profesional {
+      min-width: 180px;
+      max-width: 25%;
+    }
+    .footer-social {
+      min-width: 100px;
+      max-width: 40%;
+    }
+    .footer-text .fa {
+      font-size: 1rem;
+      background: none;
+    }
+    .footer-text .phone, .email, .skype, .address {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+    }
+    .footer-profesional .fa {
+      font-size: 1rem;
+      background: none;
+    }
+    .footer-profesional .skype, .github, .linkedin {
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+    }
+    @media screen and (max-width:660px) and (min-width:100px){
+      .footer-social {
+        margin: auto;
+        display: flex;
+        flex-wrap: wrap;
+        align-self: center;
+        align-items: center;
+        align-content: center;
+        justify-content: space-around;
+        max-width: 100%;
+      }
+    }
+    @media screen and (min-width:800px) {
+      .footer-img {
+        margin: 0;
+        padding: 0;
+        width: 10%;
+        min-width: 100px;
+        display: inline;
+      }
+      .footer-img img {
+        width: 80%;
+        border-radius: 5%;
+        /* filter: grayscale(80%); */
+        display: inline;
+      }
+    }
+    </style>
     <title>Javad Ebadi</title>
   </head>
-  <body class="bg-secondary">
+  <body class="bg-white">
 
 
-    <header>
+    <header class="header">
         <div class="justify-content-center">
           <div class="bg-light py-3">
             <div class="text-center">
               <h1 class="h2">Javad Ebadi Portfolio</h1>
             </div>
-          </div><!-- header -->
+          </div>
         </div>
     </header>
 
-    <div class="container-fluid mt-5">
-      <div class="row  justify-content-center">
-        <div class="col-10 col-sm-6 col-md-6 col-lg-4 col-xl-3">
-          <section id="frontEnd">
-            <div class="card bg-light">
-              <div class="card-header">
-                <h2 class="h3">Front End<h2>
+    <div class="container-fluid m-0 p-0">
+      <div class="row bg-daner d-flex justify-content-center p-0 m-0">
+        <div class="card-group mt-4">
+          <div class="col-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+            <section id="frontEnd">
+              <div class="card bg-light">
+                <div class="card-header">
+                  <h2 class="h3">Front End</h2>
+                </div>
+                <img class="card-img-top" src="img/web-dev.svg" alt="">
+                <div class="card-footer">
+                  <a class="btn btn-secondary btn-block p-3"
+                  type="button"
+                  href="index.old.html">
+                    Click
+                  </a>
+                </div>
               </div>
-              <img class="img-fluid" src="img/web-dev.svg" alt="">
-              <!-- <div class="card-body">
-                <div class="card-title">
-                  <h2 class="h3">Front End<h2>
+            </section>
+          </div>
+          <div class="col-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+            <section id="dataScience">
+              <div class="card bg-light">
+                <div class="card-header">
+                  <h2 class="h3">Data Science</h2>
                 </div>
-                <div class="card-subtitle mt-2">
-                  <h6>Portfolio for Front End pojects</h6>
+                <img class="card-img-top" src="img/statistic-2.svg" alt="">
+                <div class="card-footer">
+                  <a class="btn btn-secondary btn-block p-3"
+                  type="button"
+                  href="ds.html">
+                    Click
+                  </a>
                 </div>
-                <div class="card-text">
-                  To see my front-end projects, enter here!
+              </div>
+            </section>
+          </div>
+          <div class="col-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+            <section id="physics">
+              <div class="card bg-light">
+                <div class="card-header">
+                  <h2 class="h3">Physics</h2>
                 </div>
-              </div> -->
-              <div class="card-footer">
-                <button class="btn btn-secondary btn-block" type="button" name="button">Show</button>
-              </div><!--  card-footer -->
-            </div>
-          </section><!-- frontEnd -->
-        </div><!-- col ... -->
-      </div><!-- row -->
-    </div><!-- container -->
+                <img class="card-img-top" src="img/atomic-nucleus-148441.svg" alt="physics-image">
+                <div class="card-footer">
+                  <a class="btn btn-secondary btn-block p-3"
+                  type="button"
+                  href="physics.html">
+                    Click
+                  </a>
+                </div>
+              </div>
+            </section>
+          </div>
+          <div class="col-12 col-sm-6 col-md-6 col-lg-4 col-xl-3">
+            <section id="me">
+              <div class="card bg-light">
+                <div class="card-header">
+                  <h2 class="h3">Life</h2>
+                </div>
+                <img class="card-img-top" src="img/yinyang-1.svg" alt="physics-image">
+                <div class="card-footer">
+                  <a class="btn btn-secondary btn-block p-3"
+                  type="button"
+                  href="me.html">
+                    Click
+                  </a>
+                </div>
+              </div>
+            </section>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
 
+
+    <footer class="footer bg-light d-flex flex-wrap text-dark page-footer font-small blue p-0 m-0">
+        <div class="footer-text d-flex flex-column align-items-start">
+          <div class="phone">
+            <i class="fa fa-phone-square"></i><a style="text-decoration: none; font-size:0.8rem;">(+98) 914-326-1369</a>
+          </div>
+          <div class="email">
+            <i class="fa fa-envelope"></i><a href="mailto:javad.ebadi.1990@gmail.com" style="font-size:0.8rem; text-decoration: none;">javad.ebadi.1990@gmail.com</a>
+          </div>
+          <div class="address">
+            <address class="address">
+              <i class="fa fa-map-marker"></i>
+              <small>
+                Tehran, Iran.
+              </small>
+            </address>
+          </div>
+        </div>
+        <div class="footer-profesional d-flex flex-column align-items-start">
+          <div class="skype">
+            <i class="fa fa-skype text-dark"></i><a style="font-size:0.8rem; text-decoration: none;">javad.ebadi.abd</a>
+          </div>
+          <div class="linkedin">
+            <i class="fa fa-linkedin text-dark"></i>
+            <a href="https://www.linkedin.com/in/javad-ebadi-3629a481"
+              style="font-size:0.8rem; text-decoration: none;">
+              javad-ebadi-3629a481
+            </a>
+          </div>
+          <div class="linkedin">
+            <i class="fa fa-github text-dark"></i>
+            <a href="https://githbu.com/javadebadi"
+              style="font-size:0.8rem; text-decoration: none;">
+              javadebadi
+            </a>
+          </div>
+        </div>
+        <div class="footer-social mt-2 d-flex flex-wrap justify-content-start align-items-center align-self-center">
+          <a href="https://www.linkedin.com/in/javad-ebadi-3629a481" class="fa fa-linkedin"></a>
+          <a href="https://www.github.com/javadebadi" class="fa fa-github"></a>
+          <a href="https://www.slideshare.net/JavadEbadi/" class="fa fa-slideshare"></a>
+          <a href="https://www.youtube.com/channel/UCu8q9SYoOYkuBdTmXBdAI4w" class="fa fa-youtube"></a>
+          <a href="https://facebook.com/javad.ebadi.5" class="fa fa-facebook"></a>
+          <a href="https://instagram.com/javad.ebadi.1990" class="fa fa-instagram"></a>
+          <a href="https://twitter.com/JavadEbadi9" class="fa fa-twitter"></a>
+          <a href="skype:javad.ebadi.abd?chat" class="fa fa-skype"></a>
+          <a href="https://soundcloud.com/user-226847302" class="fa fa-soundcloud"></a>
+          <a href="https://www.goodreads.com/user/show/77636561-javad-ebadi">
+            <img src="https://www.goodreads.com/images/icons/goodreads_icon_50x50.png?1297385984" width="46px" height="46px" style="padding-bottom:3px;"></img>
+          </a>
+          <a href="https://anaconda.org/javadebadi" style="text-decoration: none;">
+            <img src="https://avatars2.githubusercontent.com/u/3571983?s=200&v=4" width="46px" alt="anaconda-logo">
+          </a>
+          <a href="https://scholar.google.com/citations?user=_Uz9iGAAAAAJ&hl=en" class="ai ai-google-scholar-square"></a>
+          <a href="http://inspirehep.net/author/profile/J.Ebadi.1" class="ai ai-inspire-square"></a>
+          <a href="https://www.researchgate.net/profile/Javad_Ebadi2" class="ai ai-researchgate-square"></a>
+          <a href="https://t.me/javadebadi1990" class="fa fa-telegram"></a>
+
+        </div>
+        <div class="footer-img mt-2 d-flex flex-column align-items-center">
+          <img src="images/me.jpg" alt="my image">
+        </div>
+      </div>
+    </footer>
 
 
 
