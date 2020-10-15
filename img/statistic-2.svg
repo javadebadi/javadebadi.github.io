@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="258.15mm" height="197.1mm" version="1.1" viewBox="0 0 914.70924 698.38579" xmlns="http://www.w3.org/2000/svg">
  <g transform="translate(91.64 -37.455)">
-  <rect x="-91.64" y="37.455" width="914.71" height="698.39" fill="#9ccc65"/>
+  <rect x="-91.64" y="37.455" width="914.71" height="698.39" fill="rgb(0,0,0,0)"/>
   <g transform="translate(.45687 64.281)">
-   <path d="m298.81 493.84 151.57 3.4269 12.462 118.61h-177.11z" fill="#f2f2f2"/>
-   <path d="m298.81 493.84-3.9596 36.93h159.05l-3.52-33.502-151.57-3.428z" fill="#ccc"/>
-   <rect transform="scale(1,-1)" x="31.502" y="-522.27" width="685.57" height="450.14" ry="31.215" fill="#fff" fill-rule="evenodd"/>
+   <path d="m298.81 493.84 151.57 3.4269 12.462 118.61h-177.11z" fill="#6c757d"/>
+   <path d="m298.81 493.84-3.9596 36.93h159.05l-3.52-33.502-151.57-3.428z" fill="rgba(0,0,0,0.4)"/>
+   <rect transform="scale(1,-1)" x="31.502" y="-522.27" width="685.57" height="450.14" ry="31.215" fill="#6c757d" fill-rule="evenodd"/>
    <path d="m31.401 62.617v396.88h685.77v-396.88zm16.165 20.51h650.46l-87.235 326.89-487.45-32.603z" fill="#333" fill-rule="evenodd"/>
    <rect x="31.419" y="33.554" width="685.72" height="188.97" ry="35.485" fill="#333"/>
    <rect x="59.136" y="63.706" width="630.3" height="363.17" fill="#ececec" fill-rule="evenodd"/>
-   <rect x="234.62" y="597.91" width="279.33" height="17.969" ry="5.1943" fill="#fff"/>
+   <rect x="234.62" y="597.91" width="279.33" height="17.969" ry="5.1943" fill="#6c757d"/>
    <circle cx="374.29" cy="491.68" r="17.623" fill="#333"/>
   </g>
   <rect x="59.58" y="127.96" width="630.36" height="363.21" fill="#fff" fill-rule="evenodd"/>
